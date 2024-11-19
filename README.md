@@ -27,3 +27,4 @@ Make sure the following R packages are installed:
 - `magrittr`
 
 ## How to Cite
+[![DOI](https://zenodo.org/badge/890785415.svg)](https://doi.org/10.5281/zenodo.14184615)
